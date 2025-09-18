@@ -775,7 +775,9 @@ const MyPage: React.FC = () => {
                   </p>
                   <button
                     className={styles.goToAnalysisButton}
-                    onClick={() => (window.location.href = "/#/market-analysis")}
+                    onClick={() =>
+                      (window.location.href = "/#/market-analysis")
+                    }
                   >
                     상권분석으로 이동
                   </button>
