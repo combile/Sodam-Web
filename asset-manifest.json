@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Sodam-Web/static/css/main.04df0767.css",
+    "main.js": "/Sodam-Web/static/js/main.ce75e409.js",
+    "static/js/743.c1d558cc.chunk.js": "/Sodam-Web/static/js/743.c1d558cc.chunk.js",
+    "static/js/37.a20c7dc5.chunk.js": "/Sodam-Web/static/js/37.a20c7dc5.chunk.js",
+    "static/js/317.177f1db7.chunk.js": "/Sodam-Web/static/js/317.177f1db7.chunk.js",
+    "static/js/171.a4cd42b8.chunk.js": "/Sodam-Web/static/js/171.a4cd42b8.chunk.js",
+    "static/js/917.c56c28f2.chunk.js": "/Sodam-Web/static/js/917.c56c28f2.chunk.js",
+    "static/media/BooksIcon.svg": "/Sodam-Web/static/media/BooksIcon.dda8d00aa444c2653cf5e12a8cb198a1.svg",
+    "static/media/daejeon.png": "/Sodam-Web/static/media/daejeon.bee6b8ef2c0258102dbc.png",
+    "static/media/BuildingIcon.svg": "/Sodam-Web/static/media/BuildingIcon.63f335509af44b211bc1c51771fce940.svg",
+    "static/media/MoneyIcon.svg": "/Sodam-Web/static/media/MoneyIcon.d55e22b56350c33793eb6337e24a536c.svg",
+    "static/media/ChatIcon.svg": "/Sodam-Web/static/media/ChatIcon.3018714789f3ff31f4af760eaf233922.svg",
+    "static/media/info-background.png": "/Sodam-Web/static/media/info-background.d255c7e9a0d6941a3643.png",
+    "static/media/Planning.svg": "/Sodam-Web/static/media/Planning.823a27aa06b7a54f0b26cf532041d168.svg",
+    "static/media/MapIcon.svg": "/Sodam-Web/static/media/MapIcon.e488aa6938f420f95b277b5048dc75ee.svg",
+    "static/media/Startup.svg": "/Sodam-Web/static/media/Startup.4bdf66bb136e51c79cb42a5445524e1c.svg",
+    "static/media/market.png": "/Sodam-Web/static/media/market.9d4a78dce9f2f8c9398a.png",
+    "static/media/policy.png": "/Sodam-Web/static/media/policy.9d4a78dce9f2f8c9398a.png",
+    "static/media/default-profile.png": "/Sodam-Web/static/media/default-profile.acef0de7004aa33447be.png",
+    "static/media/continuous.ttf": "/Sodam-Web/static/media/continuous.5ce8726b0b259a637ba6.ttf",
+    "static/media/icon-kakao.svg": "/Sodam-Web/static/media/icon-kakao.1f6b0c23be1b27267b46781a786079b0.svg",
+    "static/media/icon-search.svg": "/Sodam-Web/static/media/icon-search.e35580d458a30aa42278ea37480f4e19.svg",
+    "static/media/icon-close.svg": "/Sodam-Web/static/media/icon-close.c7562030f03f50fcfe4fd4e44d41a459.svg",
+    "index.html": "/Sodam-Web/index.html",
+    "static/media/icon-user.svg": "/Sodam-Web/static/media/icon-user.33ae9e8b589034e46155e9a944b09b99.svg",
+    "static/media/icon-apple.svg": "/Sodam-Web/static/media/icon-apple.30325ba5c1ae2939730e6b8c70347fa5.svg",
+    "static/media/icon-menu.svg": "/Sodam-Web/static/media/icon-menu.54629b18f8f19671c5c0add89313cd83.svg",
+    "static/media/icon-naver.svg": "/Sodam-Web/static/media/icon-naver.20ab27a2961eff7b332aad777f9b311b.svg",
+    "main.04df0767.css.map": "/Sodam-Web/static/css/main.04df0767.css.map",
+    "main.ce75e409.js.map": "/Sodam-Web/static/js/main.ce75e409.js.map",
+    "743.c1d558cc.chunk.js.map": "/Sodam-Web/static/js/743.c1d558cc.chunk.js.map",
+    "37.a20c7dc5.chunk.js.map": "/Sodam-Web/static/js/37.a20c7dc5.chunk.js.map",
+    "317.177f1db7.chunk.js.map": "/Sodam-Web/static/js/317.177f1db7.chunk.js.map",
+    "171.a4cd42b8.chunk.js.map": "/Sodam-Web/static/js/171.a4cd42b8.chunk.js.map",
+    "917.c56c28f2.chunk.js.map": "/Sodam-Web/static/js/917.c56c28f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04df0767.css",
+    "static/js/main.ce75e409.js"
+  ]
+}
