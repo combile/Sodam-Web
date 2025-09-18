@@ -189,7 +189,7 @@ const MapVisualizationPage: React.FC = () => {
           }
         } else {
           const script = document.createElement("script");
-          script.src = `https://dapi.kakao.com/v2/maps/sdk.js?appkey=f4cc7a593ecade740db60c38c67ff038&autoload=false&libraries=services`;
+          script.src = `https://dapi.kakao.com/v2/maps/sdk.js?appkey=f4cc7a593ecade740db60c38c67ff038&autoload=false&libraries=services&v=${Date.now()}`;
           script.async = true;
 
           script.onload = () => {
