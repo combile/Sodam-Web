@@ -108,7 +108,7 @@ const SignupCompleteStep = () => {
         <div className={completeStyles.additionalInfo}>
           <p className={completeStyles.infoText}>
             궁금한 점이 있으시면{" "}
-            <a href="/help" className={completeStyles.helpLink}>
+            <a href="/#/help" className={completeStyles.helpLink}>
               도움말
             </a>
             을 확인해보세요

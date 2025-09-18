@@ -80,7 +80,7 @@ apiClient.interceptors.response.use(
 
         // 로그인 페이지로 리다이렉트
         if (window.location.pathname !== "/login") {
-          window.location.href = "/login";
+          window.location.href = "/#/login";
         }
       }
     }
