@@ -1,11 +1,6 @@
 import React, { useState, useEffect } from "react";
 import styles from "./BusinessItemModal.module.css";
-import {
-  Business,
-  LocationOn,
-  Check,
-  ExpandMore,
-} from "@mui/icons-material";
+import { Business, LocationOn, Check, ExpandMore } from "@mui/icons-material";
 
 interface BusinessItemModalProps {
   isOpen: boolean;
