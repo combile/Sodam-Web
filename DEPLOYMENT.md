@@ -22,7 +22,7 @@ GitHub 저장소 → Settings → Secrets and variables → Actions에서 다음
 
 ## 📝 배포 URL
 
-- **프로덕션**: https://combile.github.io
+- **프로덕션**: https://combile.github.io/Sodam-Web
 - **개발**: 로컬에서 `npm start` 실행
 
 ## 🔧 로컬 테스트
