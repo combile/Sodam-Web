@@ -1,0 +1,6 @@
+/* 메인 콘텐츠가 남은 공간을 모두 차지하도록 설정 */
+main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
