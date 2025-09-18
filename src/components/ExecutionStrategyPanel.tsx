@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { TrendingUp, Business, Schedule } from "@mui/icons-material";
 import styles from "./ExecutionStrategyPanel.module.css";
 
 interface ExecutionStrategyProps {
@@ -20,9 +19,9 @@ const ExecutionStrategyPanel: React.FC<ExecutionStrategyProps> = ({
   const [activeStrategy, setActiveStrategy] = useState<string>("immediate");
 
   const getExecutionStrategies = () => {
-    const isHighCompetition = (competitionData?.competition_score || 0) >= 70;
-    const isGrowingMarket = marketData.changeRate > 0;
-    const isTopRank = marketData.rank <= 5;
+    // const isHighCompetition = (competitionData?.competition_score || 0) >= 70;
+    // const isGrowingMarket = marketData.changeRate > 0;
+    // const isTopRank = marketData.rank <= 5;
 
     return {
       immediate: [

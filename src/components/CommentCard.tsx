@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { Comment } from "../api/community";
 import { communityAPI } from "../api/community";
-import { authAPI } from "../api/auth";
 import styles from "./CommentCard.module.css";
 
 interface CommentCardProps {

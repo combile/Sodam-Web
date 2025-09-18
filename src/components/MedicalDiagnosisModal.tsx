@@ -431,12 +431,12 @@ const MedicalDiagnosisModal: React.FC<MedicalDiagnosisModalProps> = ({
         "3천만원-5천만원",
         "5천만원 이상",
       ];
-      const motivationNames = [
-        "경제적 자유",
-        "자아실현",
-        "시간의 자유",
-        "사회적 기여",
-      ];
+      // const motivationNames = [
+      //   "경제적 자유",
+      //   "자아실현",
+      //   "시간의 자유",
+      //   "사회적 기여",
+      // ];
       const concernNames = ["자금 부족", "경험 부족", "시장 경쟁", "고객 확보"];
       const locationNames = ["유성구", "서구", "동구", "중구"];
 

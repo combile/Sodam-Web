@@ -3,7 +3,6 @@ import styles from "./BusinessItemModal.module.css";
 import {
   Business,
   LocationOn,
-  Edit,
   Check,
   ExpandMore,
 } from "@mui/icons-material";
@@ -60,14 +59,14 @@ const BusinessItemModal: React.FC<BusinessItemModalProps> = ({
     }
   }, [isOpen, initialData]);
 
-  const industryOptions = [
-    "음식점업",
-    "소매업",
-    "서비스업",
-    "제조업",
-    "숙박업",
-    "운수업",
-    "건설업",
+  // const industryOptions = [
+  //   "음식점업",
+  //   "소매업",
+  //   "서비스업",
+  //   "제조업",
+  //   "숙박업",
+  //   "운수업",
+  //   "건설업",
     "부동산업",
     "교육서비스업",
     "보건업",

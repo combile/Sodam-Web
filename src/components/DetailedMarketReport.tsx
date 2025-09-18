@@ -56,17 +56,17 @@ const DetailedMarketReport: React.FC<DetailedReportProps> = ({
   const navigate = useNavigate();
 
   // 상권분석 완료 여부 확인 함수
-  const checkAnalysisCompletion = (): boolean => {
-    // 실제로는 API를 통해 상권분석 완료 여부를 확인해야 함
-    // 현재는 mock 데이터로 확인
-    const hasAnalysisData =
-      marketData && marketData.rank > 0 && marketData.changeRate !== 0;
-    return hasAnalysisData;
-  };
+  // const checkAnalysisCompletion = (): boolean => {
+  //   // 실제로는 API를 통해 상권분석 완료 여부를 확인해야 함
+  //   // 현재는 mock 데이터로 확인
+  //   const hasAnalysisData =
+  //     marketData && marketData.rank > 0 && marketData.changeRate !== 0;
+  //   return hasAnalysisData;
+  // };
 
-  const handleAnalysisRequired = () => {
-    setShowAnalysisRequired(true);
-  };
+  // const handleAnalysisRequired = () => {
+  //   setShowAnalysisRequired(true);
+  // };
 
   const handleGoToAnalysis = () => {
     navigate("/market-analysis");
