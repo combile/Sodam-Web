@@ -97,10 +97,10 @@ const SignupCompleteStep = () => {
         </div>
 
         <div className={completeStyles.actionButtons}>
-          <Link to="/#/login" className={completeStyles.primaryButton}>
+          <Link to="/login" className={completeStyles.primaryButton}>
             서비스 시작하기
           </Link>
-          <Link to="/#/mypage" className={completeStyles.secondaryButton}>
+          <Link to="/mypage" className={completeStyles.secondaryButton}>
             프로필 수정하기
           </Link>
         </div>
@@ -108,7 +108,7 @@ const SignupCompleteStep = () => {
         <div className={completeStyles.additionalInfo}>
           <p className={completeStyles.infoText}>
             궁금한 점이 있으시면{" "}
-            <a href="/#/help" className={completeStyles.helpLink}>
+            <a href="/help" className={completeStyles.helpLink}>
               도움말
             </a>
             을 확인해보세요

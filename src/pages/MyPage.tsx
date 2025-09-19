@@ -777,7 +777,8 @@ const MyPage: React.FC = () => {
                   <button
                     className={styles.goToAnalysisButton}
                     onClick={() =>
-                      (window.location.href = "https://combile.github.io/Sodam-Web/#/market-analysis")
+                      (window.location.href =
+                        "https://combile.github.io/Sodam-Web/#/market-analysis")
                     }
                   >
                     상권분석으로 이동
