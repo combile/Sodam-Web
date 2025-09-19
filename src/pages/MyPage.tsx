@@ -302,6 +302,7 @@ const MyPage: React.FC = () => {
 
       if (!token) {
         alert("로그인이 필요합니다. 먼저 로그인해주세요.");
+        window.location.href = "/#/login";
         return;
       }
 
