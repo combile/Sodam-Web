@@ -302,7 +302,7 @@ const MyPage: React.FC = () => {
 
       if (!token) {
         alert("로그인이 필요합니다. 먼저 로그인해주세요.");
-        window.location.href = "/#/login";
+        window.location.href = "https://combile.github.io/Sodam-Web/#/login";
         return;
       }
 
@@ -777,7 +777,7 @@ const MyPage: React.FC = () => {
                   <button
                     className={styles.goToAnalysisButton}
                     onClick={() =>
-                      (window.location.href = "/#/market-analysis")
+                      (window.location.href = "https://combile.github.io/Sodam-Web/#/market-analysis")
                     }
                   >
                     상권분석으로 이동

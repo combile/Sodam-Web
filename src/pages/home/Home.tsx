@@ -262,7 +262,7 @@ const Home = () => {
         localStorage.getItem("token") || localStorage.getItem("access_token");
       if (!token) {
         alert("로그인이 필요합니다.");
-        window.location.href = "/#/login";
+        window.location.href = "https://combile.github.io/Sodam-Web/#/login";
         return;
       }
 
@@ -298,7 +298,7 @@ const Home = () => {
         localStorage.removeItem("token");
         localStorage.removeItem("access_token");
         localStorage.removeItem("user");
-        window.location.href = "/#/login";
+        window.location.href = "https://combile.github.io/Sodam-Web/#/login";
         return;
       }
 
