@@ -1842,7 +1842,6 @@
 }
 
 .modalContent {
-  padding-top: 80px;
   flex: 1;
   overflow-y: auto;
   padding: 0;
